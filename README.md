@@ -2,6 +2,8 @@
 
 🎉 Welcome to the **Image Search App** project! 🎉 This application allows you to search for any desired image using keywords. Built with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, this app fetches up to 1000 unique and non-repetitive images from the Unsplash API.
 
+Project Demo: https://nidhiupman568.github.io/IMAGE-SEARCH-APP/
+
 ## 📋 Description
 
 The **Image Search App** lets you search for images based on your query. Simply enter a search term, and the app will fetch relevant images along with descriptions. It's responsive, adapting to different screen sizes by displaying images in a single column on smaller devices. The modern CSS design ensures a fast and enjoyable user experience, making it perfect for finding images of cats 🐱, dogs 🐶, or anything else you desire. 🌟
